@@ -10,3 +10,4 @@
 ![yearofstudy](https://user-images.githubusercontent.com/124202145/228906286-20f348a3-7fb8-4250-a8d1-da565a88df0e.png)
 ![semester](https://user-images.githubusercontent.com/124202145/228906539-d5c218a2-124d-492a-ba49-aba101db5259.png)
 ![both password](https://user-images.githubusercontent.com/124202145/228907078-c178d166-6b30-4edc-b446-5feed05be52a.png)
+![passworddontmatch](https://user-images.githubusercontent.com/124202145/228907376-23177afe-a7bc-484d-8e0a-c04f4bd1a42b.png)
