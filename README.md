@@ -9,4 +9,4 @@
 ![email](https://user-images.githubusercontent.com/124202145/228905105-0961f57f-d612-4b5c-85e5-d09a1818112c.png)
 ![yearofstudy](https://user-images.githubusercontent.com/124202145/228906286-20f348a3-7fb8-4250-a8d1-da565a88df0e.png)
 ![semester](https://user-images.githubusercontent.com/124202145/228906539-d5c218a2-124d-492a-ba49-aba101db5259.png)
-
+![both password](https://user-images.githubusercontent.com/124202145/228907078-c178d166-6b30-4edc-b446-5feed05be52a.png)
